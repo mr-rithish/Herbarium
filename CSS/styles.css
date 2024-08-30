@@ -1,0 +1,62 @@
+body{
+    background-color: #E3FDFD;
+    margin: none;
+    padding-bottom: 100px;
+}
+h1{
+    font-family: "Sacramento", cursive;
+    font-size: 120px;
+    text-align: center;
+    margin-right: 230px;
+    margin-bottom: 0px;
+}
+.logo{
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-left: 170px;
+}
+h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    margin-left: 650px;
+    margin-top: 10px;
+    height: 40px;
+    width: 600px;
+    
+    
+}
+.top-container{
+    
+}
+.polaroid {
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border-radius: 20px;
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 40px;
+    
+}
+  
+.top-container {
+    padding-bottom: 200px;
+}
+h4{
+    font-family: "Poppins", sans-serif;
+}
+.description{
+    text-align: center;
+    height: 600px;
+    float: right;
+}
+h2{
+    font-family: "Sacramento", cursive;
+}
+p{
+    font-family: "Poppins", sans-serif;
+}
+.item{
+    padding-left: 90px;
+}
